@@ -3,3 +3,4 @@ git add -A-> adding files to staging area
 git commit -m"your message"-> adding files to local repo
 git status->listing all untracked file
 git push->
+changes
